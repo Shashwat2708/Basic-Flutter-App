@@ -1,16 +1,5 @@
-# id_card
-
-An app that dispays id                   
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This is a simple ID card application made in flutter which can be very helpful if you have doubts and confusion in the baiscs of flutter.
+This app goes through a lot of concepts like adding picture, importing files, rows, columns, etc. in just one file which in a way makes it a lot less complicated.
+Try to build the same app by not just copying and pasting the code but by writing each and every word on your own so that you know exactly whats going on and then you can play around with different packages.
+If you are still not able to understand, search "net ninja flutter id card" and watch the first video.
+You can also try contacting me and I will try my best to help you.
